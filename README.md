@@ -6,7 +6,7 @@ The generated endpoint is `/actions/routes-api/routes/get` and `/actions/routes-
 
 ## Requirements
 
-This plugin requires Craft CMS 4.5.0 or later, and PHP 8.0.2 or later.
+This plugin requires Craft CMS 5.0 or later, and PHP 8.2 or later.
 
 ## Installation
 
